@@ -130,7 +130,7 @@ event-management-dashboard/
 
 ### Common Scripts
 - **Docker**
-  - docker compose up --build.
+  - docker compose up.
     
 - **Backend**
   - `npm run dev` – Start Express server in watch mode.
@@ -163,4 +163,4 @@ Our Team consists of:
 5. Shubhanshu Rawat : Connect on <a href="https://github.com/subhanshurawat99">Github</a>
 
 
-# EventHub_SSSD
+
